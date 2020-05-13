@@ -1,0 +1,18 @@
+body {
+    background-color: #363636;
+    color: #ffffff
+}
+
+.primary {
+    background-color: #262626
+}
+
+.nav-wrapper {
+    padding: 0 24px;
+    display: flex;
+    align-items: center;
+}
+
+.page-title-collection {
+    /* padding-left: 190px; */
+}
